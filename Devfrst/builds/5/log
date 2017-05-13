@@ -1,0 +1,11 @@
+Started by user [8mha:////4BUU9s/LS62ky6OKnGDgv4734mv1DuNHrCL6Qfalpr1hAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwBoBn6pcWpRfrFGYnFGZkpGYlFRkYAl7BmgscAAAA=[0mshashidhar gutha
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\Devfrst
+[Devfrst] $ cmd /c call C:\WINDOWS\TEMP\jenkins2110772278650292488.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Devfrst>cd C:\Users\Lakshmi Reddy\Downloads 
+
+C:\Users\Lakshmi Reddy\Downloads>rmdir sh 
+The system cannot find the file specified.
+
+C:\Users\Lakshmi Reddy\Downloads>exit 0 
+Finished: SUCCESS
